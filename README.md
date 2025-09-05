@@ -23,5 +23,5 @@ A missão do **Antene-se** é tornar essa desigualdade visível. Ao criar uma fo
 
 * **Backend:** Python com Django
 * **Banco de Dados:** PostgreSQL com PostGIS
-* **Frontend:** `[Adicionar a tecnologia, ex: React, Vue.js, SvelteKit]`
+* **Frontend:** React.js
 * **Mapa Interativo:** `[Adicionar a tecnologia, ex: Leaflet, Mapbox]`
