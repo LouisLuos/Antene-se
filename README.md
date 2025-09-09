@@ -25,3 +25,13 @@ A missão do **Antene-se** é tornar essa desigualdade visível. Ao criar uma fo
 * **Banco de Dados:** PostgreSQL com PostGIS
 * **Frontend:** React.js
 * **Mapa Interativo:** `[Adicionar a tecnologia, ex: Leaflet, Mapbox]`
+
+## 🏛️ Organização do Projeto
+
+Nosso desenvolvimento é guiado por princípios ágeis, com um backlog público e transparente gerenciado no Trello. Você pode acompanhar nosso progresso e as próximas funcionalidades planejadas.
+
+### Nosso Backlog de Produto
+
+Aqui estão as funcionalidades e melhorias que planejamos para o **Antene-se**, priorizadas com base no valor que entregam aos nossos usuários e à nossa missão.
+
+![Backlog do Produto no Trello](https://github.com/LouisLuos/Antene-se/blob/main/assets/printbacklog.png)
