@@ -24,7 +24,14 @@ A missão do **Antene-se** é tornar essa desigualdade visível. Ao criar uma fo
 * **Backend:** Python com Django
 * **Banco de Dados:** PostgreSQL com PostGIS
 * **Frontend:** React.js
-* **Mapa Interativo:** `[Adicionar a tecnologia, ex: Leaflet, Mapbox]`
+* **Mapa Interativo:** Leaflet.js
+
+## 👥 Equipe
+
+* **Backend:** Cauã Nascimento e Luiz Henrique
+* **Banco de Dados:** Pedro Vinicius e Paulo Marrocos
+* **Frontend:** Eduardo Henrique
+* **Mapa Interativo:** Pedro Marrocos
 
 ## 🏛️ Organização do Projeto
 
