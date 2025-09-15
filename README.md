@@ -28,8 +28,9 @@ A missão do **Antene-se** é tornar essa desigualdade visível. Ao criar uma fo
 
 ## 👥 Equipe
 
-* **Backend:** Cauã Nascimento e Luiz Henrique
-* **Banco de Dados:** Pedro Vinicius e Paulo Marrocos
+* **Scrum Master:** Luiz Henrique
+* **Backend:** Cauã Nascimento e Pedro Vinicius
+* **Banco de Dados:** Paulo Marrocos
 * **Frontend:** Eduardo Henrique
 * **Mapa Interativo:** Pedro Marrocos
 
